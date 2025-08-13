@@ -1,0 +1,6 @@
+﻿Заявление о вынесении судебного приказа
+Дело: {{CaseId}}
+Должник: {{DebtorKind}} {{DebtorName}}
+ЛС: {{Ls}}
+Сумма долга: {{DebtAmount}}
+Период: {{PeriodFrom}}{{PeriodTo}}

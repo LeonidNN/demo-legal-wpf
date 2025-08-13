@@ -1,0 +1,12 @@
+Претензия
+Дело: {{CaseId}}
+Должник: {{DebtorKind}} {{DebtorName}}
+Лицевой счёт: {{Ls}}
+Адрес: {{Address}}
+Период задолженности: {{PeriodFrom}}–{{PeriodTo}}
+Сумма долга: {{DebtAmount}}
+Вид услуги: {{ServiceKind}}
+
+{{MgmtStatusText}}
+
+Взыскатель: {{Organization}}
