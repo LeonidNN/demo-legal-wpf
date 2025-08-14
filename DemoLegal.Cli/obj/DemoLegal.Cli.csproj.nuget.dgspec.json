@@ -178,6 +178,10 @@
               "target": "Package",
               "version": "[2.1.35, )"
             },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "ExcelDataReader": {
               "target": "Package",
               "version": "[3.7.0, )"

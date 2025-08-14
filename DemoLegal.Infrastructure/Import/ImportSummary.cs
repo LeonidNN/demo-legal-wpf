@@ -20,18 +20,8 @@ public sealed class ImportSummary
         if (Warnings.Count > 0)
         {
             sb.AppendLine("Предупреждения (первые 200):");
-            foreach (var w in Warnings.Take(200))
-                sb.AppendLine(" - " + w);
-            if (Warnings.Count > 200) sb.AppendLine(" ...");
+            foreach (var w in Warnings.Take(200)) sb.AppendLine(" - " + w);
         }
         return sb.ToString();
-    }
-
-    // Оставим утилиту записи на случай использования из CLI
-    public string WriteReportToFile(string path)
-    {
-        var content = BuildReportString();
-        File.WriteAllText(path, content, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
-        return path;
     }
 }

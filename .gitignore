@@ -1,0 +1,50 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.ncb
+*.opendb
+*.VC.db
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Reports / temp
+*.log
+*.tmp
+
+# WPF auto-generated
+*.g.cs
+*.g.i.cs
+*.Designer.cs
+*.baml
+*.xaml.*
+

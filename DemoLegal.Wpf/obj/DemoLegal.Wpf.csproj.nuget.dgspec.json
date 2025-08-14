@@ -113,6 +113,10 @@
               "target": "Package",
               "version": "[2.1.35, )"
             },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "ExcelDataReader": {
               "target": "Package",
               "version": "[3.7.0, )"
@@ -206,7 +210,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App": {
               "privateAssets": "none"
             }
           },

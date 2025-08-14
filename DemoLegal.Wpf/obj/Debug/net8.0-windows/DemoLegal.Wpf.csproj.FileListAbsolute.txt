@@ -56,3 +56,6 @@ D:\Programming\demo-legal-wpf\DemoLegal.Wpf\obj\Debug\net8.0-windows\Views\Candi
 D:\Programming\demo-legal-wpf\DemoLegal.Wpf\obj\Debug\net8.0-windows\Views\CandidatesWindow.g.cs
 D:\Programming\demo-legal-wpf\DemoLegal.Wpf\bin\Debug\net8.0-windows\ExcelDataReader.dll
 D:\Programming\demo-legal-wpf\DemoLegal.Wpf\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Wpf\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Wpf\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Wpf\bin\Debug\net8.0-windows\System.IO.Packaging.dll
