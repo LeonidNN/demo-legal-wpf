@@ -1,0 +1,12 @@
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\bin\Debug\net8.0\DemoLegal.Domain.deps.json
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\bin\Debug\net8.0\DemoLegal.Domain.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\bin\Debug\net8.0\DemoLegal.Domain.pdb
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.AssemblyInfoInputs.cache
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.AssemblyInfo.cs
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.sourcelink.json
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\refint\DemoLegal.Domain.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\DemoLegal.Domain.pdb
+D:\Programming\demo-legal-wpf\DemoLegal.Domain\obj\Debug\net8.0\ref\DemoLegal.Domain.dll

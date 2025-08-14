@@ -1,6 +1,0 @@
-﻿Исковое заявление о взыскании задолженности
-Дело: {{CaseId}}
-Ответчик: {{DebtorKind}} {{DebtorName}}
-ЛС: {{Ls}}
-Сумма долга: {{DebtAmount}}
-Период: {{PeriodFrom}}{{PeriodTo}}

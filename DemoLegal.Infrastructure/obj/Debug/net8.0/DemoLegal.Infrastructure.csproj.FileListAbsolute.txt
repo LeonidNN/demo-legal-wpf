@@ -1,0 +1,17 @@
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\DemoLegal.Infrastructure.deps.json
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\DemoLegal.Infrastructure.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\DemoLegal.Infrastructure.pdb
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.AssemblyInfo.cs
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.sourcelink.json
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\refint\DemoLegal.Infrastructure.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLegal.Infrastructure.pdb
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\ref\DemoLegal.Infrastructure.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\Database\schema.sql
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\DemoLegal.Domain.dll
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\bin\Debug\net8.0\DemoLegal.Domain.pdb
+D:\Programming\demo-legal-wpf\DemoLegal.Infrastructure\obj\Debug\net8.0\DemoLega.5F14DC1C.Up2Date
